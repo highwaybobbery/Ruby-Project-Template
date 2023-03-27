@@ -1,4 +1,2 @@
---require spec_helper
---require ./zeitwerk_loader
 --default-path spec
 -f d
